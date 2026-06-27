@@ -60,9 +60,9 @@ common:
     url: https://www.paxton.ai/small-law-firms
   - type: Pricing
     url: https://www.paxton.ai/pricing
-  - type: SignUp
+  - type: Signup
     url: https://app.paxton.ai/signup
-  - type: SignIn
+  - type: Login
     url: https://app.paxton.ai/signin
   - type: Blog
     url: https://www.paxton.ai/blog
