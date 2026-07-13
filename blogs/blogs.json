@@ -2,11 +2,13 @@
   "repo": "paxton-ai",
   "feeds": [
     {
-      "source": "https://www.paxton.ai/blog",
+      "source": "https://app.paxton.ai/signin",
+      "feed_url": "https://app.paxton.ai/signin",
+      "title": "",
       "saved": 0,
-      "error": "HTTP 404 on blog listing"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T13:00:44Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 0
 }
