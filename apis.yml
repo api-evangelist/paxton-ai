@@ -22,9 +22,20 @@ description: >-
   and legal-hallucination benchmark datasets but does not offer a public
   developer API, SDK, or open-source platform.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/paxton-ai.png
 tags:
   - Legal
   - Legal AI
