@@ -1,4 +1,4 @@
-# paxton-ai
+# Paxton AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Paxton AI — legal AI research and drafting assistant for attorneys and law firms
+Paxton AI is a legal AI assistant built for attorneys and law firms, delivering rapid case-law and regulatory research, AI-assisted document drafting, file analysis, deposition and discovery summarization, and specialized workflows for medical chronologies and billing summaries. Founded by Tanguy Chau (CEO) and Michael Ulin and headquartered in Bend, Oregon, the company has raised roughly $28M across a $6M seed round led by WVV Capital and a $22M Series A led by Unusual Ventures, with participation from Kyber Knight and 25Madison. Paxton's platform covers US federal regulations, state laws, and case law across all fifty states, surfaces precise authority-linked citations, and runs in a closed model environment that is SOC 2, ISO 27001, and HIPAA compliant with data never used for model training. The product is delivered as a web SaaS targeted at solo practitioners, small and mid-size firms, and enterprise legal teams across personal injury, family, employment, criminal, and corporate practice areas; commercial access is sold via per-seat Individual plans ($499/month or $2,999/year) and a volume-priced Enterprise plan, with a 7-day free trial. Paxton publishes a small public GitHub presence with citator and legal-hallucination benchmark datasets but does not offer a public developer API, SDK, or open-source platform.
+
+**Areas:** Legal · Legal AI · Legal Tech · Legal Research · Legal Drafting · Document Analysis · Case Law · Regulations · Medical Chronologies · Discovery · Depositions · Generative AI
+
+## Paxton AI on APIs.io
+
+Everything profiled for Paxton AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/paxton-ai/](https://apis.io/providers/paxton-ai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Paxton Ai Domain Security](https://apis.io/security/paxton-ai/paxton-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.paxton.ai)
+- [Pricing](https://www.paxton.ai/pricing)
+- [Blog](https://www.paxton.ai/blog)
+- [Security](https://www.paxton.ai/security)
+- [Terms of service](https://www.paxton.ai/terms)
+- [Privacy policy](https://www.paxton.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 7.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 17.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.4** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/paxton-ai/](https://apis.io/providers/paxton-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Paxton AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/paxton-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
